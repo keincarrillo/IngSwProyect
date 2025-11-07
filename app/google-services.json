@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "42152847887",
+    "project_id": "ingswproyect",
+    "storage_bucket": "ingswproyect.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42152847887:android:41d3fd00bf76cac85d517a",
+        "android_client_info": {
+          "package_name": "com.example.ingswproyect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42152847887-q9buulbe8vk8vth1irdluc0eq013eelf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ingswproyect",
+            "certificate_hash": "a41a30ece9bfcfd09911e39c5cc046c24a27bc35"
+          }
+        },
+        {
+          "client_id": "42152847887-0uhrcq516m015uevb4p0oj145ek0bhld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHYudGUZFI8ZuR_fUT26alx_LUreULHkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42152847887-0uhrcq516m015uevb4p0oj145ek0bhld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

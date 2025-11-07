@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">IngSwProyect</string>
+    <string name="default_web_client_id">TU_CLIENT_ID_AQUI</string>
 </resources>
